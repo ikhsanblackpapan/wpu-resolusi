@@ -4,6 +4,7 @@ rencana konten
 java
 *mvc
 *laravel
+react
 project java
 fundamental
 menambahkan project java
