@@ -4,7 +4,6 @@ rencana konten
 java
 *mvc
 *laravel
-tim a bloon
 react
 project java
 fundamental
