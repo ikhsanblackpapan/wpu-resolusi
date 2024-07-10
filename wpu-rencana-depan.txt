@@ -5,7 +5,7 @@ java
 *mvc
 *laravel
 anjas
-bujung buset
+bujung buseis
 lier
 fundamental
 menambahkan project java
